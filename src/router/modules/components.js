@@ -11,6 +11,7 @@ const componentsRouter = {
     title: 'Components',
     icon: 'component'
   },
+  hidden: true,
   children: [
     {
       path: 'tinymce',
